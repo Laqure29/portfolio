@@ -94,6 +94,15 @@ body {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+.block-line {
+  display: block; /* forces them onto new lines */
+}
+
+.spaced-top {
+  margin-top: 10px; /* adjust as needed */
+}
+
+
 
 /* Background colors */
 .baby-pink{
